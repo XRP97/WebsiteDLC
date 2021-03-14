@@ -4,7 +4,9 @@ Website on Docker, Linux, and Containerization
 
 **Due Mar 22 by 11:59pm Points 5 Submitting a text entry box or a website url**
 
-In this assignment I want you to work in a team to create a website that teaches a new user about what Docker is and how it compares to virtualization.  You should use pictures, text, and link to other resources for additional information.  
+In this assignment I want you to work in a team to create a website that teaches a new user about what Docker is and how it compares to virtualization.  
+
+You should use pictures, text, and link to other resources for additional information.  
 
 **The website should have the following web pages:**
 
